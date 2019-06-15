@@ -25,10 +25,10 @@ OUTPUT="mcdapi"
 PACKAGE="xyz.hexile.mcdapi"
 
 # App name
-APP_NAME="McD API"
+APP_NAME="McDonald's"
 
 # Change app icon
-CHANGE_APP_ICON=true
+CHANGE_APP_ICON=false
 
 # If you set this to true a debug keystore will be used to sign.
 # NOTE: If you set this to true and you don't have a Custom ROM or a "developer" phone, you won't be able to install the apk.
